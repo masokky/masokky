@@ -1,9 +1,16 @@
-### Hi there 👋
+## Hello World! <img src="https://github.com/masokky/masokky/blob/master/assets/Hi.gif" width="30px"></h2>
 
-<!--
-**masokky/masokky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i><b>Let's connect!</b></i>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <a href="https://www.linkedin.com/in/okky-alvianto-7a790b151/" alt="Linkedin"><img src="https://github.com/masokky/masokky/blob/master/assets/linkedin.png" height="30" width="30"></a>&nbsp;
+    <a href="https://www.instagram.com/masokky_" alt="Instagram"><img src="https://github.com/masokky/masokky/blob/master/assets/instagram.png" height="30" width="30"></a>&nbsp;
+     <a href="https://t.me/at_masokky" alt="Telegram"><img src="https://github.com/masokky/masokky/blob/master/assets/telegram.png" height="30" width="30"></a>&nbsp;
+     <a href="https://masokky.com/"><img src="https://github.com/masokky/masokky/blob/master/assets/globe.png" height="30" width="30"></a>
+  </p>
+    
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
