@@ -8,6 +8,5 @@
     <a href="https://www.instagram.com/masokky_" target="_blank" alt="Instagram"><img src="https://github.com/masokky/masokky/blob/master/assets/instagram.png" height="30" width="30"></a>&nbsp;
      <a href="https://t.me/at_masokky" target="_blank" alt="Telegram"><img src="https://github.com/masokky/masokky/blob/master/assets/telegram.png" height="30" width="30"></a>&nbsp;
      <a href="https://masokky.com/" target="_blank" alt="Mas Okky"><img src="https://github.com/masokky/masokky/blob/master/assets/globe.png" height="30" width="30"></a><br>
-    ![https://github-readme-stats.vercel.app/api?username=masokky&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=masokky&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
   </p>
 </p>
