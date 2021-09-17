@@ -1,4 +1,4 @@
-## Hello World! <img src="https://github.com/masokky/masokky/blob/master/assets/Hi.gif" width="30px"></h2>
+<h2 align="center">Hello World! <img src="https://github.com/masokky/masokky/blob/master/assets/Hi.gif" width="30px"></h2>
 
 <p align="center">
   <i><b>Let's connect!</b></i>
